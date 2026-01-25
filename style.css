@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Arial;
   background-color: #f4f6f8;
@@ -7,3 +8,14 @@ body {
 h1 {
   color: #0f172a;
 }
+=======
+body {
+  font-family: Arial;
+  background-color: #f4f6f8;
+  padding: 20px;
+}
+
+h1 {
+  color: #0f172a;
+}
+>>>>>>> 9a645383af62b51ee31ee975cc73fc9e3d96221b
